@@ -1,4 +1,4 @@
-# ai-code-reviewer
+# Argus
 
 A GitHub App that reviews pull requests using Claude's tool use API. It posts structured inline comments organized by severity, writes a PR summary, and can be triggered conversationally via slash commands typed directly in GitHub comments. Every review shows token usage, files analyzed, and lines reviewed so teams can see exactly what happened and why.
 
